@@ -1,2 +1,2 @@
-# Arduino
-Basic/General Arduino codes
+# Arduino Codes
+This repositpry contains basic Arduino codes
